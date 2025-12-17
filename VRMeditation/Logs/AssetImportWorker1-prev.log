@@ -1,0 +1,500 @@
+Unity Editor version:    6000.0.63f1 (9438f9b77a46)
+Branch:                  6000.0/respin/6000.0.63f1-b423dd65e13f
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.6 (Build 22G120)
+Darwin version:          22.6.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ayeshaislam" at "2025-12-16T23:24:34.802474Z"
+[Licensing::Client] Code 1 while verifying Licensing Client signature (process Id: 42418, path: "/Applications/Unity/Hub/Editor/6000.0.63f1/Unity.app/Contents/Frameworks/UnityLicensingClient.app/Contents/MacOS/Unity.Licensing.Client")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              c756fc63d2f143b2bb1e10e136324796
+  Correlation Id:          4edae406827475e72bacb0f5ad0c3139
+  External correlation Id: 9138824627155188575
+  Machine Id:              YVj73FRRxWzjoFhaeU3buHXJudA=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-ayeshaislam" (connect: 0.00s, validation: 0.01s, handshake: 0.04s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ayeshaislam-notifications" at "2025-12-16T23:24:34.853922Z"
+[Licensing::Module] Licensing Background thread has ended after 0.05s
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.0.63f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/ayeshaislam/Desktop/VR_MD/VR-Meditation/VRMeditation
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+63323
+-licensingIpc
+LicenseClient-ayeshaislam
+-job-worker-count
+3
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name AssetImport
+Successfully changed project path to: /Users/ayeshaislam/Desktop/VR_MD/VR-Meditation/VRMeditation
+/Users/ayeshaislam/Desktop/VR_MD/VR-Meditation/VRMeditation
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8388567168]  Target information:
+
+Player connection [8388567168]  * "[IP] 192.168.1.169 [Port] 0 [Flags] 2 [Guid] 938345858 [EditorId] 938345858 [Version] 1048832 [Id] OSXEditor(0,Ayeshas-MBP-2.lan) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8388567168] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8388567168] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 4.68 ms, found 2 plugins.
+Preloading 1 native plugins for Editor in 10.78 ms.
+Initialize engine version: 6000.0.63f1 (9438f9b77a46)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.0.63f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ayeshaislam/Desktop/VR_MD/VR-Meditation/VRMeditation/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.0.63f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.0.63f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.0.63f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56149
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.63f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 18967765159623-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: /Applications/Unity/Hub/Editor/6000.0.63f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.003395 seconds.
+- Loaded All Assemblies, in  0.561 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+2025-12-16 18:24:36.876 Unity[70149:4877825] [XcodeApplications] Failed to read NSDictionary from path /Applications/Xcode.app/Contents/Info.plist
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.459 seconds
+Domain Reload Profiling: 1020ms
+	BeginReloadAssembly (228ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (6ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (59ms)
+	LoadAllAssembliesAndSetupDomain (200ms)
+		LoadAssemblies (216ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (197ms)
+			TypeCache.Refresh (196ms)
+				TypeCache.ScanAssembly (179ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (460ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (414ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (134ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (137ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[CoreBusinessMetrics] Unexpected thread when updating session info.
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.694 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Native extension for iOS target not found
+2025-12-16 18:24:38.514 Unity[70149:4877825] [XcodeApplications] Failed to read NSDictionary from path /Applications/Xcode.app/Contents/Info.plist
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.753 seconds
+Domain Reload Profiling: 2446ms
+	BeginReloadAssembly (151ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (451ms)
+		LoadAssemblies (285ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (222ms)
+			TypeCache.Refresh (177ms)
+				TypeCache.ScanAssembly (158ms)
+			BuildScriptInfoCaches (33ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1754ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1234ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (153ms)
+			ProcessInitializeOnLoadAttributes (855ms)
+			ProcessInitializeOnLoadMethodAttributes (199ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launching external process: /Applications/Unity/Hub/Editor/6000.0.63f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.15 seconds
+Refreshing native plugins compatible for Editor in 1.72 ms, found 2 plugins.
+Preloading 1 native plugins for Editor in 0.50 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4364 unused Assets / (3.3 MB). Loaded Objects now: 5052.
+Memory consumption went from 114.4 MB to 111.1 MB.
+Total: 50.057291 ms (FindLiveObjects: 2.893750 ms CreateObjectMapping: 0.335209 ms MarkObjects: 41.223709 ms  DeleteObjects: 5.601084 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 245387.771837 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP
+  artifactKey: Guid(6da75e327dd2a094b871b6312906c488) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP using Guid(6da75e327dd2a094b871b6312906c488) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '79f234380639427fe7f6f71accb188e8') in 0.295220125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/Includes/CTI URP SG BillboardFragment.hlsl
+  artifactKey: Guid(068055334d98c4f488fc319e9ee2ed4f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/Includes/CTI URP SG BillboardFragment.hlsl using Guid(068055334d98c4f488fc319e9ee2ed4f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '18aa75bdc19ea5d97dc24ecc1dd086ac') in 0.027529417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Small_BillboardMaterial.mat
+  artifactKey: Guid(6d60868e79943504d9a854ddbeb4fc17) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Small_BillboardMaterial.mat using Guid(6d60868e79943504d9a854ddbeb4fc17) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0757b4285abc9a5cced9fce8d6a787af') in 0.223602875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Tall_BillboardAsset.asset
+  artifactKey: Guid(1acbd9be3d535994989aad06ce178950) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Tall_BillboardAsset.asset using Guid(1acbd9be3d535994989aad06ce178950) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7f0ab70cc59c89d3c28bf4a1f5475be8') in 0.033002875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/Includes/CTI URP SG BillboardVertexSimple.hlsl
+  artifactKey: Guid(a599a3b81d0717d44a255d53c65784ed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/Includes/CTI URP SG BillboardVertexSimple.hlsl using Guid(a599a3b81d0717d44a255d53c65784ed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '76ecf4c5b48765a01ff0674155145b59') in 0.013547458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Prefabs/CTI Windzone URP.prefab
+  artifactKey: Guid(60f5bcd220cc34a69b70476143e17685) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Prefabs/CTI Windzone URP.prefab using Guid(60f5bcd220cc34a69b70476143e17685) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9f19744b190f98967387f8a2d65d964c') in 0.118557875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/VR Meditation/3rd Party Assets/Conifers [BOTD]/Render Pipeline Support/URP/Prefabs URP/PF Conifer Tall BOTD URP.prefab
+  artifactKey: Guid(4663d5cca4ed98548946e758cd5979e2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/VR Meditation/3rd Party Assets/Conifers [BOTD]/Render Pipeline Support/URP/Prefabs URP/PF Conifer Tall BOTD URP.prefab using Guid(4663d5cca4ed98548946e758cd5979e2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6e947ea6f45500234257e9630f6bf699') in 0.074323875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Bare_BillboardMaterial.mat
+  artifactKey: Guid(6ac017b76f8d0154fba7bd32d9a53ae1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Bare_BillboardMaterial.mat using Guid(6ac017b76f8d0154fba7bd32d9a53ae1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c5c559b84220ac21b4d64b9fbfddcf38') in 0.020244334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Tall_BillboardMaterial.mat
+  artifactKey: Guid(1fd48149bf1e0fe4088e3ec63d280ca3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Tall_BillboardMaterial.mat using Guid(1fd48149bf1e0fe4088e3ec63d280ca3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b43c5a6c510b8803f249a879e80f6556') in 0.019642708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/CTI URP SG Billboard Simple.shadergraph
+  artifactKey: Guid(21d7dc78afae6da45a145e73098e628a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/CTI URP SG Billboard Simple.shadergraph using Guid(21d7dc78afae6da45a145e73098e628a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3798c1431a49330ad952fc1925e1a3a0') in 0.040853791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/CTI URP SG Bark Array.shadergraph
+  artifactKey: Guid(b04305346960a4d43b15392fde8e26e5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/CTI URP SG Bark Array.shadergraph using Guid(b04305346960a4d43b15392fde8e26e5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b6ba55e679743535c424a7c51b9bce84') in 0.053163042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Materials/M Conifer Bark Simple URP.mat
+  artifactKey: Guid(1186544d3cb19e041b13d63e53ab4ecd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Materials/M Conifer Bark Simple URP.mat using Guid(1186544d3cb19e041b13d63e53ab4ecd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3602c621d63e5f2c962035d88bf8bd15') in 0.054360125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Known Issues.txt
+  artifactKey: Guid(d770cab170fa2824980238b801245be2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Known Issues.txt using Guid(d770cab170fa2824980238b801245be2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c097373330f1f06627db294900105196') in 0.013946 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/Includes/CTI URP SG Lighting.hlsl
+  artifactKey: Guid(f091e92bb3c3a8346a1a082b1b1260dc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/Includes/CTI URP SG Lighting.hlsl using Guid(f091e92bb3c3a8346a1a082b1b1260dc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f2a10ad9efc37e9b001598265d819ca9') in 0.016029417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Prefabs
+  artifactKey: Guid(effc258b23b39b144a5f89d7aa9a7979) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Prefabs using Guid(effc258b23b39b144a5f89d7aa9a7979) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c3842c5eea0579dd4f2f726eb29d7afa') in 0.011229041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus
+  artifactKey: Guid(7e5d8f34c7edc85419167d224dcf742c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus using Guid(7e5d8f34c7edc85419167d224dcf742c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e1e0b4a280ffb72e90ae6bf650256daa') in 0.010697333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Forst/CTI Runtime Components
+  artifactKey: Guid(023c9648087b64f76ad65d41cbe63b8e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components using Guid(023c9648087b64f76ad65d41cbe63b8e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0bf11b1f01eb28422529b3d2dbfa1003') in 0.007753875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001197 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Demo
+  artifactKey: Guid(a2bba318673e92b43aebc19a5a1b5f3c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Demo using Guid(a2bba318673e92b43aebc19a5a1b5f3c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8599ece7cfe681f3e1c6e8b7e45abf20') in 0.006807959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Demo/Gray.mat
+  artifactKey: Guid(83157d33866af724ea14c16004422960) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Demo/Gray.mat using Guid(83157d33866af724ea14c16004422960) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '13881abdc14a929609fba93ffa1e984a') in 0.06088725 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/CTI URP SG Bark.shadergraph
+  artifactKey: Guid(59b526d69ac994c4bad0edbac50b6685) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/CTI URP SG Bark.shadergraph using Guid(59b526d69ac994c4bad0edbac50b6685) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7c0aec2b7fd6bc7ee577d78e49274cc5') in 0.0194055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/CTI Runtime Components URP 14plus.pdf
+  artifactKey: Guid(6c2c465f1271dae43ada16626363373b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/CTI Runtime Components URP 14plus.pdf using Guid(6c2c465f1271dae43ada16626363373b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '041fad427383b815acedfaae96b439c3') in 0.017532041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Small_BillboardAsset.asset
+  artifactKey: Guid(234e107afda138b4f9ea67290d8f598e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Sources/Billboards/Conifer Small_BillboardAsset.asset using Guid(234e107afda138b4f9ea67290d8f598e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '93cca7972ef989f3103486a9babf6d3d') in 0.010913042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/VR Meditation/3rd Party Assets/Conifers [BOTD]/Render Pipeline Support/URP/Prefabs URP/PF Conifer Medium BOTD URP.prefab
+  artifactKey: Guid(78f6b68ad931a824c920d7b953612370) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/VR Meditation/3rd Party Assets/Conifers [BOTD]/Render Pipeline Support/URP/Prefabs URP/PF Conifer Medium BOTD URP.prefab using Guid(78f6b68ad931a824c920d7b953612370) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '52822edc5f7d6b67b965fb60fd73cf64') in 0.042735125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/CTI URP SG Leaves.shadergraph
+  artifactKey: Guid(dd5346f32d7fd23488eda10b183acc31) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Shaders/CTI URP SG Leaves.shadergraph using Guid(dd5346f32d7fd23488eda10b183acc31) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '17ef4522f886431a8bada194ba68e3dd') in 0.025976875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Known Issues.txt
+  artifactKey: Guid(4d4bec378ad669641872869047eb7f33) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Forst/Conifers [BOTD]/Render Pipeline Support/URP/Known Issues.txt using Guid(4d4bec378ad669641872869047eb7f33) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd589625a76dd24c3612239f36bd9fe42') in 0.009877792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x29f287000 may have been prematurely finalized
+- Loaded All Assemblies, in  1.900 seconds
+Refreshing native plugins compatible for Editor in 11.55 ms, found 9 plugins.
+Native extension for iOS target not found
+2025-12-16 18:25:20.973 Unity[70149:4877825] [XcodeApplications] Failed to read NSDictionary from path /Applications/Xcode.app/Contents/Info.plist
+Native extension for OSXStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.830 seconds
+Domain Reload Profiling: 3734ms
+	BeginReloadAssembly (490ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (22ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (200ms)
+	RebuildCommonClasses (110ms)
+	RebuildNativeTypeToScriptingClass (42ms)
+	initialDomainReloadingComplete (89ms)
+	LoadAllAssembliesAndSetupDomain (1172ms)
+		LoadAssemblies (748ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (576ms)
+			TypeCache.Refresh (245ms)
+				TypeCache.ScanAssembly (182ms)
+			BuildScriptInfoCaches (299ms)
+			ResolveRequiredComponents (24ms)
+	FinalizeReload (1831ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1462ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (17ms)
+			BeforeProcessingInitializeOnLoad (267ms)
+			ProcessInitializeOnLoadAttributes (896ms)
+			ProcessInitializeOnLoadMethodAttributes (250ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (35ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 7.91 ms, found 9 plugins.
+Preloading 1 native plugins for Editor in 0.46 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5087 unused Assets / (2.3 MB). Loaded Objects now: 5779.
+Memory consumption went from 140.4 MB to 138.1 MB.
+Total: 42.063417 ms (FindLiveObjects: 1.642459 ms CreateObjectMapping: 0.449459 ms MarkObjects: 37.275625 ms  DeleteObjects: 2.694208 ms)
+
+Prepare: number of updated asset objects reloaded= 0
